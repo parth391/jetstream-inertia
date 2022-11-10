@@ -1,4 +1,5 @@
 {
+    "name": "laravel-jetstream-inertia",
     "private": true,
     "scripts": {
         "dev": "vite",
